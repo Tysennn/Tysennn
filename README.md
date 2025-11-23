@@ -4,9 +4,9 @@
 
 ## About Me
 
-Hi, I'm **Vincent Mazo** or you can call me Sen for short. I'm currently enrolled in New Era University, taking the program of Bachelor of Science in Computer Science. I always want to learn new things inside the program that I'm currently enrolled, specifically for developing websites and application. 
+Hi, I'm **Vincent Mazo** or you can call me <i>**Sen**</i> for short. I'm currently enrolled in **New Era University**, taking the program of **Bachelor of Science in Computer Science**. I always want to learn new things inside the program that I'm currently enrolled, specifically for **developing websites** and **application**. 
 
-Besides of learning programming skills, I'm also learning to enhance my leadership and communication skills so that I'm ready to any leading projects and teamworks, to execute the job well done. </div>
+Besides of learning programming skills, I'm also learning to **enhance my leadership and communication skills** so that I'm ready to any leading projects and teamworks, to execute the job well done. </div>
 
 
 ---
