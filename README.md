@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Vincent!</h1>
 <div align="center"></div>
 
-## About Me
+## *About Me*
 
 Hi, I'm **Vincent Mazo** or you can call me <i>**Sen**</i> for short. I'm currently enrolled in **New Era University**, taking the program of **Bachelor of Science in Computer Science**. I always want to learn new things inside the program that I'm currently enrolled, specifically for **developing websites** and **application**. 
 
@@ -13,7 +13,7 @@ I'm a **Former President of a Christian Youth Organization**, and currently a **
 
 ---
 
-## Education
+## *Education*
 
 | Education | Institution | Year |
 |--------|------------|------|
