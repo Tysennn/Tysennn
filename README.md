@@ -1,16 +1,113 @@
-## Hi there 👋
+# 
+<h1 align="center">Hi , I'm Vincent Mazo</h1>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
+  
+</div>
 
-<!--
-**Tysennn/Tysennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## <div align = "center"> About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = "center"> Currently a Computer Science Student that always wanted to learn new things for developing websites and application! </div>
+
+
+---
+
+## Education
+
+| Education | Institution | Year |
+|--------|------------|------|
+| **College** | New Era University | 2024 - Present |
+| **Senior High School** | Krus Na Ligas High School | 2022 - 2024 |
+| **High School** | Krus Na Ligas High School | 2018 - 2022 |
+| **Elementary** | Krus Na Ligas Elementary School | 2012 - 2018 |
+
+---
+
+## Certifications
+
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Issued By</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>AWS Certified Solutions Architect</td>
+    <td>Amazon Web Services</td>
+    <td>January 2024</td>
+  </tr>
+  <tr>
+    <td>Professional Scrum Master I</td>
+    <td>Scrum.org</td>
+    <td>December 2023</td>
+  </tr>
+  <tr>
+    <td>Google Cloud Associate Engineer</td>
+    <td>Google Cloud</td>
+    <td>November 2023</td>
+  </tr>
+  <tr>
+    <td>GitHub Actions Certification</td>
+    <td>GitHub</td>
+    <td>October 2023</td>
+  </tr>
+</table>
+
+---
+
+## Skillsets
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
+  [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+  
+  ### ⭐ From [yourusername](https://github.com/yourusername)
+  
+</div>
