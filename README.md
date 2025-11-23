@@ -2,18 +2,18 @@
 <h1 align="center">Hi , I'm Vincent!</h1>
 <div align="center"></div>
 
-## *About Me*
+## About Me
 
-Hi, I'm **Vincent Mazo** or you can call me <i>**Sen**</i> for short. I'm currently enrolled in **New Era University**, taking the program of **Bachelor of Science in Computer Science**. I always want to learn new things inside the program that I'm currently enrolled, specifically for **developing websites** and **application**. 
+*Hi, I'm **Vincent Mazo** or you can call me <i>**Sen**</i> for short. I'm currently enrolled in **New Era University**, taking the program of **Bachelor of Science in Computer Science**. I always want to learn new things inside the program that I'm currently enrolled, specifically for **developing websites** and **application**.*
 
-Besides of learning programming skills, I'm also learning to **enhance my leadership and communication skills** so that I'm ready to any leading projects and teamworks, to execute the job well done. 
+*Besides of learning programming skills, I'm also learning to **enhance my leadership and communication skills** so that I'm ready to any leading projects and teamworks, to execute the job well done.*
 
-I'm a **Former President of a Christian Youth Organization**, and currently a **Committee Chairman** inside the **Organization of Association of Computer Science Students (ACSS) in New Era University**.</div>
+*I'm a **Former President of a Christian Youth Organization**, and currently a **Committee Chairman** inside the **Organization of Association of Computer Science Students (ACSS) in New Era University**.* </div>
 
 
 ---
 
-## *Education*
+## Education
 
 | Education | Institution | Year |
 |--------|------------|------|
@@ -68,7 +68,7 @@ I'm a **Former President of a Christian Youth Organization**, and currently a **
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tysennn&show_icons=true&theme=radical)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
   
