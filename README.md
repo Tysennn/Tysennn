@@ -88,7 +88,7 @@
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
   [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/~011145ef9abcecfe2a)
-  [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://upwork.com/freelancers/yourprofile](https://www.upwork.com/freelancers/~011145ef9abcecfe2a?mp_source=share))
+  [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011145ef9abcecfe2a?mp_source=share)
 
 </div>
 
