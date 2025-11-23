@@ -33,12 +33,12 @@
     <th>Date</th>
   </tr>
   <tr>
-    <td>UI & UX Design</td>
+    <td><a href=https://drive.google.com/file/d/1ougd9M1dKM1hWrEFZvpXMUpac6RyXK4D/view?usp=drive_link>UI & UX Design</a></td>
     <td>DICT</td>
     <td>June 2025</td>
   </tr>
   <tr>
-    <td>Software Development and Design Thinking</td>
+    <td><a href=https://drive.google.com/file/d/1NDCyQ5WhY2ehx24em6NGrBEMEY2AfmzD/view?usp=drive_link>Software Development and Design Thinking</a></td>
     <td>DICT</td>
     <td>June 2025</td>
   </tr>
