@@ -35,24 +35,14 @@
     <th>Date</th>
   </tr>
   <tr>
-    <td>AWS Certified Solutions Architect</td>
-    <td>Amazon Web Services</td>
-    <td>January 2024</td>
+    <td>UI & UX Design</td>
+    <td>DICT</td>
+    <td>June 2025</td>
   </tr>
   <tr>
-    <td>Professional Scrum Master I</td>
-    <td>Scrum.org</td>
-    <td>December 2023</td>
-  </tr>
-  <tr>
-    <td>Google Cloud Associate Engineer</td>
-    <td>Google Cloud</td>
-    <td>November 2023</td>
-  </tr>
-  <tr>
-    <td>GitHub Actions Certification</td>
-    <td>GitHub</td>
-    <td>October 2023</td>
+    <td>Software Development and Design Thinking</td>
+    <td>DICT</td>
+    <td>June 2025</td>
   </tr>
 </table>
 
@@ -94,10 +84,10 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sequencer15@gmail.com)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
   [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/~011145ef9abcecfe2a)
   [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/yourprofile)
 
 </div>
