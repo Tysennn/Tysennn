@@ -44,7 +44,8 @@
   </tr>
   <tr>
     <td><a href=https://drive.google.com/file/d/1c-o6idLU6FacLpff_6tOL2SCSgUHdqB4/view?usp=drive_link>SQL and Relational Databases 101</a></td>
-    <td></td>
+    <td>Cognitive Class AI</td>
+    <td>November 2025</td>
   </tr>
 </table>
 
