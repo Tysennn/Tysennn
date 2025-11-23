@@ -8,7 +8,7 @@ Hi, I'm **Vincent Mazo** or you can call me <i>**Sen**</i> for short. I'm curren
 
 Besides of learning programming skills, I'm also learning to **enhance my leadership and communication skills** so that I'm ready to any leading projects and teamworks, to execute the job well done. 
 
-I'm a **Former President of a Christian Youth Organization**, and currently a **Committee Chairman** inside the **Organization of ACSS in New Era University**.</div>
+I'm a **Former President of a Christian Youth Organization**, and currently a **Committee Chairman** inside the **Organization of Association of Computer Science Students (ACSS) in New Era University**.</div>
 
 
 ---
