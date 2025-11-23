@@ -94,10 +94,3 @@
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-  
-  ### ⭐ From [yourusername](https://github.com/yourusername)
-  
-</div>
