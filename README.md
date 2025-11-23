@@ -1,12 +1,6 @@
 # 
 <h1 align="center">Hi , I'm Vincent Mazo</h1>
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer;Graveyard+Shift+;Love+to+learn+new+things!)
-  
-</div>
-
----
+<div align="center"></div>
 
 ## About Me
 
