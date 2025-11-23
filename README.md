@@ -8,9 +8,9 @@
 
 ---
 
-## <div align = "center"> About Me
+## About Me
 
-<div align = "center"> Currently a Computer Science Student that always wanted to learn new things for developing websites and application! </div>
+Currently a Computer Science Student that always wanted to learn new things for developing websites and application! </div>
 
 
 ---
