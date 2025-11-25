@@ -33,6 +33,16 @@
     <th>Date</th>
   </tr>
   <tr>
+    <td><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D5329B32BD47CB783B8F5AEA6A695FF7EFA9055BAAF177D2F12BCA27AB92824>OCI Foundations Associate (2025)</a></td>
+    <td>Oracle University</td>
+    <td>November 2025</td>
+  </tr>
+  <tr>
+    <td><a href=https://courses.cognitiveclass.ai/certificates/1c9c8c4a7b9f472598746f54d3d98ff3#>SQL and Relational Databases 101</a></td>
+    <td>Cognitive Class AI</td>
+    <td>November 2025</td>
+  </tr>
+  <tr>
     <td><a href=https://drive.google.com/file/d/1ougd9M1dKM1hWrEFZvpXMUpac6RyXK4D/view?usp=drive_link>UI & UX Design</a></td>
     <td>DICT</td>
     <td>June 2025</td>
@@ -41,11 +51,6 @@
     <td><a href=https://drive.google.com/file/d/1NDCyQ5WhY2ehx24em6NGrBEMEY2AfmzD/view?usp=drive_link>Software Development and Design Thinking</a></td>
     <td>DICT</td>
     <td>June 2025</td>
-  </tr>
-  <tr>
-    <td><a href=https://courses.cognitiveclass.ai/certificates/1c9c8c4a7b9f472598746f54d3d98ff3#>SQL and Relational Databases 101</a></td>
-    <td>Cognitive Class AI</td>
-    <td>November 2025</td>
   </tr>
   <tr>
     <td><a href=https://drive.google.com/file/d/1oq4lR0PqD-BB4i3biiBbVvQTn9aWegSn/view?usp=sharing>Lessons, Trends, and Opportunities in the IT Industry</a></td>
