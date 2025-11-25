@@ -47,6 +47,11 @@
     <td>Cognitive Class AI</td>
     <td>November 2025</td>
   </tr>
+  <tr>
+    <td><a href=https://drive.google.com/file/d/1oq4lR0PqD-BB4i3biiBbVvQTn9aWegSn/view?usp=sharing>Data Driven Facilities Management: The Future of Smart Spaces</a></td>
+    <td>NEU CICS</td>
+    <td>April 2025</td>
+  </tr>
 </table>
 
 ---
