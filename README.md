@@ -15,13 +15,10 @@
 
 ## Education
 
-| Education | Institution | Year |
-|--------|------------|------|
-| **College** | New Era University | 2024 - Present |
-| **Senior High School** | Krus Na Ligas High School | 2022 - 2024 |
-| **High School** | Krus Na Ligas High School | 2018 - 2022 |
-| **Elementary** | Krus Na Ligas Elementary School | 2012 - 2018 |
-
+| Course/Strand | Year |
+|--------|------|
+| TVL - ICT/Animation | 2022 - 2024 |
+| BS in Computer Science | 2024 - Current |
 ---
 
 ## Certifications
