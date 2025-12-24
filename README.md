@@ -30,7 +30,12 @@
     <th>Date</th>
   </tr>
   <tr>
-    <td><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D5329B32BD47CB783B8F5AEA6A695FF7EFA9055BAAF177D2F12BCA27AB92824](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9529DDC974C88D684ADDB7D3FE3C02A6BF5DF0D1979ADD643F579DD4651A2AD6)>Oracle Data Platform Foundations Associate (2025)</a></td>
+    <td><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DCDCD06207DFDBE750855B670B0417160F3F2786C2EEC8DC0FFDD4AC12AE482>OCI AI Foundations Associate (2025)</a></td>
+    <td>Oracle University</td>
+    <td>December 2025</td>
+  </tr>
+  <tr>
+    <td><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=9529DDC974C88D684ADDB7D3FE3C02A6BF5DF0D1979ADD643F579DD4651A2AD6>Oracle Data Platform Foundations Associate (2025)</a></td>
     <td>Oracle University</td>
     <td>December 2025</td>
   </tr>
