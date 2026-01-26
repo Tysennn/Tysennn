@@ -30,6 +30,11 @@
     <th>Date</th>
   </tr>
   <tr>
+    <td><a href=https://edu.google.accredible.com/c6c76211-0caa-4e9b-9d56-42c7b69df0e8#acc.EVDhmbFY>Gemini AI University Certification</a></td>
+    <td>Google for Education</td>
+    <td>January 2025</td>
+  </tr>
+  <tr>
     <td><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DCDCD06207DFDBE750855B670B0417160F3F2786C2EEC8DC0FFDD4AC12AE482>OCI AI Foundations Associate (2025)</a></td>
     <td>Oracle University</td>
     <td>December 2025</td>
